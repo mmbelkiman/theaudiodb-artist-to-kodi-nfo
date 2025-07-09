@@ -1,0 +1,23 @@
+{
+  "name": "theaudiodb-artist-to-kodi-nfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.12",
+    "@types/node-fetch": "^2.6.12",
+    "typescript": "^5.8.3"
+  }
+}

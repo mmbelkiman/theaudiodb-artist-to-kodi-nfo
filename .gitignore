@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders and files
+.idea/
+.vscode/
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Puppeteer Chromium cache (optional, saves space)
+.chromium/
+
+# Misc
+*.log
+*.bak
+*.tmp
