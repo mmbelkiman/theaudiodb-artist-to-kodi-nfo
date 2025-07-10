@@ -67,6 +67,15 @@ npm start
 
 ---
 
+## 🔍 How to Get the Artist ID
+
+1. Go to [TheAudioDB](https://www.theaudiodb.com/) website
+2. Use the search bar to find the artist you’re looking for.
+3. Click on the correct artist from the search results.
+4. Look at the URL — it will look like this:
+    https://www.theaudiodb.com/artist/123456-ArtistName
+5. You only need the numeric ID at the end of the URL (in this example, 123456).
+
 ## 🛠 Built With
 
 - Node.js
